@@ -12,7 +12,8 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-Insert the network topology from Packet Tracer (Screenshot or drawing)
+<img width="1366" height="720" alt="Screenshot 2026-10-21 200505" src="https://github.com/user-attachments/assets/e4291a66-ea41-4269-89e1-b73f21f4d820" />
+
 
 ________________________________________
 # IP Addressing Table (if applicable)
@@ -40,7 +41,23 @@ For Router Configuration (CLI):<br>
 ________________________________________
 # Output (Screenshots / Ping Results)
 
-Insert screenshots showing ping success, configuration, or simulation results.
+
+<img width="1366" height="720" alt="Screenshot 2026-10-21 200048" src="https://github.com/user-attachments/assets/4327ec4d-17a6-4223-b9ee-0cbff02dc873" />
+
+<img width="1366" height="720" alt="Screenshot 2026-10-21 200055" src="https://github.com/user-attachments/assets/a7b0dcf4-ae5b-4559-9330-c9830769557a" />
+
+<img width="1366" height="720" alt="Screenshot 2026-10-21 200104" src="https://github.com/user-attachments/assets/01a98da9-e125-4936-97df-2eccda82999f" />
+
+<img width="1366" height="720" alt="Screenshot 2026-10-21 200352" src="https://github.com/user-attachments/assets/116433fc-29bb-422b-8e9a-6144e0faf32b" />
+
+<img width="1366" height="720" alt="Screenshot 2026-10-21 200505" src="https://github.com/user-attachments/assets/9472d276-f4d7-4164-8795-398a0399fe68" />
+
+
+
+
+
+
+
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
